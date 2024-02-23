@@ -120,7 +120,6 @@ h1 {
 				alert('Field cannot be empty!');
 				return false;
 			}
-			// You can add more validation rules here if needed
 			return true;
 		}
 	</script>
